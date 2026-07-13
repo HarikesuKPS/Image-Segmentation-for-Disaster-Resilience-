@@ -3,7 +3,7 @@
 A deep-learning based image segmentation model for detecting and classifying affected regions from drone imagery after floods,
 helping in faster response and damage assessment.
 
-- [Dataset Link](https://www.kaggle.com/datasets/sarthaktandulje/disaster-damage-5class)
+- [Dataset Link](https://www.kaggle.com/datasets/saiharshitjami/flood-images-mask-segmentation)
 
 The Project uses image samples of two types:
 - Imagery of flood affected regions
