@@ -5,9 +5,7 @@ helping in faster response and damage assessment.
 
 - [Dataset Link](https://www.kaggle.com/datasets/saiharshitjami/flood-images-mask-segmentation)
 
-The Project uses image samples of two types:
-- Imagery of flood affected regions
-- Images of normal landscapes
+The Project uses image samples with their corresponding segmentation masks for efficient image segmentation model training.
 
 This will help the model classify between a damage affected region and a normal region, the datasets of both classes will be split in 80-20% for training and testing of the model.
 
