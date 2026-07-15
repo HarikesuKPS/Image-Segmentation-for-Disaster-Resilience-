@@ -7,7 +7,7 @@ helping in faster response and damage assessment.
 
 The Project uses image samples with their corresponding segmentation masks for efficient image segmentation model training.
 
-This will help the model classify between a damage affected region and a normal region, the datasets of both classes will be split in 80-20% for training and testing of the model.
+This will help the model classify between a damage affected region and a normal region, the datasets of both classes will be split in 80%-10%-10% for training and testing of the model.
 
 ## Week 1:
 The task agenda for week 1 focuses on data preprocessing and EDA (Exploratory Data Analysis). With following members contributing to each task:\
