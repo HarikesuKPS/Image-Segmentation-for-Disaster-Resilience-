@@ -15,3 +15,4 @@ Somya Sharma : Data Preprocessing\
 Aman Jaiswal : EDA
 
 - The dataset preprocessing consisted of loading the dataset and matching each image to its corresponding mask, removing corrupted data samples, converting imaged from BGR to RGB and resizing all images to equal dimensions (256X256)  while normalizing pixel values and also resizing image segmentation masks (256X256) and converting them into binary (0 - normal, 1 - flood).
+- EDA (Exploratory Data Analysis) analysed the preprocessed dataset and provided valuable insights such as dataset size, consistent image size across all image samples, no. of missing values, flood pixel ratio per image, duplicate image samples, etc. In EDA we also determined the optimal split of the dataset for training, testing and validation in (training = 2720 images, testing = 340 images, validation = 341 images).
