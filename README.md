@@ -19,7 +19,20 @@ Aman Jaiswal : EDA
 
 ## Week 2:
 The task agenda for week 2 focuses on dataset split, data augmentation, model training, evaluation using IoU and Dice coefficient, and visualization of segmentation outputs.\
-Somya Sharma : Dataset Split
 
+**Somya Sharma : Dataset Split**
 
 - **Dataset Split**: Consisted of splitting dataset of images and their correspoding masks into subsets for training, testing and validation in percentages of 80%, 10%, 10% respectively.
+
+**Suhani Vhatkar : Data Augmentation**
+- **Data Augmentation** : To improve model generalization and reduce overfitting, data augmentation was applied only to the training dataset. The validation and test datasets were kept unchanged to ensure unbiased model evaluation.
+- **Augmentations Applied** :
+  - Horizontal Flip
+  - Vertical Flip
+  - Rotation
+  - Random Brightness
+  - Random Contrast
+
+- The augmented training dataset was saved as :
+  - `X_train_augmented.npy`
+  - `y_train_augmented.npy`
