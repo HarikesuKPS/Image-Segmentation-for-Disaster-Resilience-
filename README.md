@@ -28,6 +28,16 @@ The task agenda for week 2 focuses on dataset split, data augmentation, model tr
 
 **Aman Jaiswal : Model_Evaluation_Comparison**
 
+Model Evaluation and Comparison: Tested both the Basic CNN and Enhanced U-Net on the test dataset and compared their segmentation performance using Accuracy, Dice Coefficient, IoU Score, and Loss.
+
+Result Summary: Created a comparison table highlighting the test performance of both models.
+
+Improvement Analysis: Calculated the performance gain of Enhanced U-Net over Basic CNN to show the improvement in segmentation quality.
+
+Visualization: Plotted a bar chart to compare both models across all evaluation metrics.
+
+Error Analysis: Generated confusion matrices and prediction visualizations for deeper analysis of model performance.
+
 
 - **Dataset Split**: Consisted of splitting dataset of images and their correspoding masks into subsets for training, testing and validation in percentages of 80%, 10%, 10% respectively.
 
