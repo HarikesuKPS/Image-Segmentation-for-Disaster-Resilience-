@@ -25,6 +25,7 @@ The task agenda for week 2 focuses on dataset split, data augmentation, model tr
 **Somya Sharma : Dataset Split**\
 **Suhani Vhatkar : Data Augmentation**\
 **Somya Sharma : Model Training**
+
 **Aman Jaiswal : Model_Evaluation_Comparison**
 
 
