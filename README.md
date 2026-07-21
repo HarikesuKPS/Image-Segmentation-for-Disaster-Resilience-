@@ -84,4 +84,11 @@ Qualitative Analysis:
 
 The generated visualizations allow direct comparison between the baseline CNN and the Enhanced U-Net model. The Enhanced U-Net produces smoother object boundaries, captures flooded regions more accurately, and preserves fine spatial details through its skip connections.
 
+Objectives:
+- Verify segmentation quality visually.
+- Compare predicted masks with ground truth.
+- Analyze model performance beyond numerical metrics.
+- Identify segmentation errors and boundary preservation.
+
+
    
