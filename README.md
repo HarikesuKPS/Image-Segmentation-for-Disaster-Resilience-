@@ -96,3 +96,5 @@ Notebook Used:
 Outcome:
 
 The visualization confirms that the Enhanced U-Net model provides more accurate segmentation results than the Basic CNN by producing cleaner masks and improving flood region detection.
+
+This visualization module serves as the qualitative evaluation stage of the flood image segmentation pipeline and complements the quantitative metrics such as Accuracy, Dice Coefficient, and Intersection over Union (IoU).
