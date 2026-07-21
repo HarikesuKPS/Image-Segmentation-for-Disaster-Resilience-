@@ -92,3 +92,7 @@ Objectives:
 
 Notebook Used:
 - `visualizing_segmentation_outputs.ipynb`
+
+Outcome:
+
+The visualization confirms that the Enhanced U-Net model provides more accurate segmentation results than the Basic CNN by producing cleaner masks and improving flood region detection.
