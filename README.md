@@ -80,5 +80,8 @@ Visualization was implemented using:
 - NumPy
 - TensorFlow (Keras API)
 
+Qualitative Analysis:
+
+The generated visualizations allow direct comparison between the baseline CNN and the Enhanced U-Net model. The Enhanced U-Net produces smoother object boundaries, captures flooded regions more accurately, and preserves fine spatial details through its skip connections.
 
    
