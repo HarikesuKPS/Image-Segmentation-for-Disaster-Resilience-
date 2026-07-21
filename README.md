@@ -25,7 +25,7 @@ The task agenda for week 2 focuses on dataset split, data augmentation, model tr
 **Somya Sharma : Dataset Split**\
 **Suhani Vhatkar : Data Augmentation**\
 **Somya Sharma : Model Training**
-
+**Hariharan KPS : Visualizing Segmentation Outputs**
 **Aman Jaiswal : Model_Evaluation_Comparison**
 
 Model Evaluation and Comparison: Tested both the Basic CNN and Enhanced U-Net on the test dataset and compared their segmentation performance using Accuracy, Dice Coefficient, IoU Score, and Loss.
