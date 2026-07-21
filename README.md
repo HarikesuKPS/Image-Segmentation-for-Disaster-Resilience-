@@ -75,6 +75,10 @@ The visualization process includes:
 - Predicted Mask (Basic CNN)
 - Predicted Mask (Enhanced U-Net)
 
+Visualization was implemented using:
+- Matplotlib
+- NumPy
+- TensorFlow (Keras API)
 
 
    
